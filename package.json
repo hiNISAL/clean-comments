@@ -1,0 +1,24 @@
+{
+  "name": "clean-comments",
+  "version": "1.0.0",
+  "description": "To remove comments for js/css/c/c++ and more",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hiNISAL/clean-comments.git"
+  },
+  "author": "NISAL",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hiNISAL/clean-comments/issues"
+  },
+  "homepage": "https://github.com/hiNISAL/clean-comments#readme",
+  "keywords": [
+    "comments",
+    "remove comments",
+    "clean comments"
+  ]
+}
