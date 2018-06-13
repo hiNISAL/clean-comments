@@ -55,5 +55,5 @@ exports.removeComments = function(code, type) {
 
   }
 
-  return handleStringArray(parsedStrArr, type).join('').slice(1, -1);
+  return handleStringArray(parsedStrArr, type).join('').slice(1, length);
 };
